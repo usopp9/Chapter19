@@ -1,1 +1,1 @@
-include ':app', ':notification_study'
+include ':app', ':notification_study', ':service_study'
